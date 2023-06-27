@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Yoses",
+      "email": "biancardona.rivera@gmail.com",
+      "telefono": "3338446612",
+      "empresa": "Improving",
+      "id": 28
+    },
+    {
+      "nombre": "Bianca",
+      "email": "biancardona.rivera@gmail.com",
+      "telefono": "3338446612",
+      "empresa": "Improving",
+      "id": 29
+    }
+  ]
+}
